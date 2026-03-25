@@ -33,3 +33,8 @@
 2026-03-25T15:07:15 UTC [INFO] Starting agent run…
 2026-03-25T15:07:16 UTC [ERROR] Agent exited with code 1. Log: /home/user/test-repo/iphone-news-agent/logs/run-2026-03-25_15-07.log
 2026-03-25T15:07:16 UTC [INFO] Next run in 9.9 h at 2026-03-26 01:00 UTC (= 09:00 SGT)
+2026-03-25T15:07:49 UTC [INFO] iPhone News Daily Agent scheduler starting.
+2026-03-25T15:07:49 UTC [INFO] Agent prompt: /home/user/test-repo/iphone-news-agent/AGENT.md
+2026-03-25T15:07:49 UTC [INFO] Scheduled fire time: 01:00 UTC (09:00 SGT) daily
+2026-03-25T15:07:49 UTC [INFO] --now flag set: running agent immediately.
+2026-03-25T15:07:49 UTC [INFO] Starting agent run…
