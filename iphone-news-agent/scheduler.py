@@ -66,7 +66,8 @@ def run_agent():
     try:
         result = subprocess.run(
             [CLAUDE_BIN, "--print", "--output-format", "text",
-             "--allowedTools", "WebSearch,WebFetch", prompt],
+             "--allowedTools", "WebSearch,WebFetch"],
+            input=prompt,
             capture_output=True,
             text=True,
             cwd=REPO_DIR,
