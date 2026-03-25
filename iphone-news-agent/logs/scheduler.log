@@ -14,3 +14,8 @@
 2026-03-25T03:50:29 UTC [INFO] Scheduled fire time: 01:00 UTC (09:00 SGT) daily
 2026-03-25T03:50:29 UTC [INFO] --now flag set: running agent immediately.
 2026-03-25T03:50:29 UTC [INFO] Starting agent run…
+2026-03-25T05:03:33 UTC [INFO] iPhone News Daily Agent scheduler starting.
+2026-03-25T05:03:33 UTC [INFO] Agent prompt: /home/user/test-repo/iphone-news-agent/AGENT.md
+2026-03-25T05:03:33 UTC [INFO] Scheduled fire time: 01:00 UTC (09:00 SGT) daily
+2026-03-25T05:03:33 UTC [INFO] --now flag set: running agent immediately.
+2026-03-25T05:03:33 UTC [INFO] Starting agent run…
