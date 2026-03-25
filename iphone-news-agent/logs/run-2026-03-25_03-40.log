@@ -1,0 +1,6 @@
+Both WebSearch and WebFetch are blocked by permissions. This agent requires network access to fetch iPhone news from MacRumors, 9to5Mac, and The Verge. Please grant permission to use:
+
+- **WebSearch** — to search for recent iPhone articles
+- **WebFetch** — to fetch full article content from those URLs
+
+You can approve these by clicking **Allow** when prompted, or go to **Settings → Permissions** to enable them. Once granted, I'll re-run all the steps automatically.
