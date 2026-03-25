@@ -1,0 +1,4 @@
+2026-03-25T03:37:03 UTC [INFO] iPhone News Daily Agent scheduler starting.
+2026-03-25T03:37:03 UTC [INFO] Agent prompt: /home/user/test-repo/iphone-news-agent/AGENT.md
+2026-03-25T03:37:03 UTC [INFO] Scheduled fire time: 01:00 UTC (09:00 SGT) daily
+2026-03-25T03:37:03 UTC [INFO] [DRY RUN] Next run in 21.38 h at 2026-03-26 01:00 UTC
