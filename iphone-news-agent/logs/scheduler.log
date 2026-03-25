@@ -19,3 +19,5 @@
 2026-03-25T05:03:33 UTC [INFO] Scheduled fire time: 01:00 UTC (09:00 SGT) daily
 2026-03-25T05:03:33 UTC [INFO] --now flag set: running agent immediately.
 2026-03-25T05:03:33 UTC [INFO] Starting agent run…
+2026-03-25T05:04:49 UTC [INFO] Agent run completed successfully. Log: /home/user/test-repo/iphone-news-agent/logs/run-2026-03-25_05-03.log
+2026-03-25T05:04:49 UTC [INFO] Next run in 19.9 h at 2026-03-26 01:00 UTC (= 09:00 SGT)
