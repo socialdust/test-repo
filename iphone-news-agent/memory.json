@@ -1,0 +1,5 @@
+{
+  "description": "Deduplication memory for the iPhone News Daily Agent. Stores articles processed in the last 14 days.",
+  "articles": [],
+  "last_updated": null
+}

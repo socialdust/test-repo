@@ -1,0 +1,42 @@
+2026-03-25T03:37:03 UTC [INFO] iPhone News Daily Agent scheduler starting.
+2026-03-25T03:37:03 UTC [INFO] Agent prompt: /home/user/test-repo/iphone-news-agent/AGENT.md
+2026-03-25T03:37:03 UTC [INFO] Scheduled fire time: 01:00 UTC (09:00 SGT) daily
+2026-03-25T03:37:03 UTC [INFO] [DRY RUN] Next run in 21.38 h at 2026-03-26 01:00 UTC
+2026-03-25T03:40:01 UTC [INFO] iPhone News Daily Agent scheduler starting.
+2026-03-25T03:40:01 UTC [INFO] Agent prompt: /home/user/test-repo/iphone-news-agent/AGENT.md
+2026-03-25T03:40:01 UTC [INFO] Scheduled fire time: 01:00 UTC (09:00 SGT) daily
+2026-03-25T03:40:01 UTC [INFO] --now flag set: running agent immediately.
+2026-03-25T03:40:01 UTC [INFO] Starting agent run…
+2026-03-25T03:40:27 UTC [INFO] Agent run completed successfully. Log: /home/user/test-repo/iphone-news-agent/logs/run-2026-03-25_03-40.log
+2026-03-25T03:40:27 UTC [INFO] Next run in 21.3 h at 2026-03-26 01:00 UTC (= 09:00 SGT)
+2026-03-25T03:50:29 UTC [INFO] iPhone News Daily Agent scheduler starting.
+2026-03-25T03:50:29 UTC [INFO] Agent prompt: /home/user/test-repo/iphone-news-agent/AGENT.md
+2026-03-25T03:50:29 UTC [INFO] Scheduled fire time: 01:00 UTC (09:00 SGT) daily
+2026-03-25T03:50:29 UTC [INFO] --now flag set: running agent immediately.
+2026-03-25T03:50:29 UTC [INFO] Starting agent run…
+2026-03-25T05:03:33 UTC [INFO] iPhone News Daily Agent scheduler starting.
+2026-03-25T05:03:33 UTC [INFO] Agent prompt: /home/user/test-repo/iphone-news-agent/AGENT.md
+2026-03-25T05:03:33 UTC [INFO] Scheduled fire time: 01:00 UTC (09:00 SGT) daily
+2026-03-25T05:03:33 UTC [INFO] --now flag set: running agent immediately.
+2026-03-25T05:03:33 UTC [INFO] Starting agent run…
+2026-03-25T05:04:49 UTC [INFO] Agent run completed successfully. Log: /home/user/test-repo/iphone-news-agent/logs/run-2026-03-25_05-03.log
+2026-03-25T05:04:49 UTC [INFO] Next run in 19.9 h at 2026-03-26 01:00 UTC (= 09:00 SGT)
+2026-03-25T07:15:22 UTC [INFO] iPhone News Daily Agent scheduler starting.
+2026-03-25T07:15:22 UTC [INFO] Agent prompt: /home/user/test-repo/iphone-news-agent/AGENT.md
+2026-03-25T07:15:22 UTC [INFO] Scheduled fire time: 01:00 UTC (09:00 SGT) daily
+2026-03-25T07:15:22 UTC [INFO] --now flag set: running agent immediately.
+2026-03-25T07:15:22 UTC [INFO] Starting agent run…
+2026-03-25T15:07:15 UTC [INFO] iPhone News Daily Agent scheduler starting.
+2026-03-25T15:07:15 UTC [INFO] Agent prompt: /home/user/test-repo/iphone-news-agent/AGENT.md
+2026-03-25T15:07:15 UTC [INFO] Scheduled fire time: 01:00 UTC (09:00 SGT) daily
+2026-03-25T15:07:15 UTC [INFO] --now flag set: running agent immediately.
+2026-03-25T15:07:15 UTC [INFO] Starting agent run…
+2026-03-25T15:07:16 UTC [ERROR] Agent exited with code 1. Log: /home/user/test-repo/iphone-news-agent/logs/run-2026-03-25_15-07.log
+2026-03-25T15:07:16 UTC [INFO] Next run in 9.9 h at 2026-03-26 01:00 UTC (= 09:00 SGT)
+2026-03-25T15:07:49 UTC [INFO] iPhone News Daily Agent scheduler starting.
+2026-03-25T15:07:49 UTC [INFO] Agent prompt: /home/user/test-repo/iphone-news-agent/AGENT.md
+2026-03-25T15:07:49 UTC [INFO] Scheduled fire time: 01:00 UTC (09:00 SGT) daily
+2026-03-25T15:07:49 UTC [INFO] --now flag set: running agent immediately.
+2026-03-25T15:07:49 UTC [INFO] Starting agent run…
+2026-03-25T15:14:42 UTC [INFO] Agent run completed successfully. Log: /home/user/test-repo/iphone-news-agent/logs/run-2026-03-25_15-07.log
+2026-03-25T15:14:42 UTC [INFO] Next run in 9.8 h at 2026-03-26 01:00 UTC (= 09:00 SGT)
